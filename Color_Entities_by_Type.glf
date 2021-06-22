@@ -8,6 +8,13 @@
 #
 #############################################################################
 
+#
+# This sample script was written and provided by a 3rd party outside of
+# Cadence Design Systems's control.  It is not supported by Cadence Design
+# Systems, Inc.  It is provided freely for demonstration purposes only.
+# SEE THE WARRANTY DISCLAIMER AT THE BOTTOM OF THIS FILE.
+#
+
 ###############################################################################
 ##
 ## Color.glf
